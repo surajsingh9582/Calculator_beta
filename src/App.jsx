@@ -1,4 +1,4 @@
-import Container from "./compo/Container"
+import Container from "./compo/container"
 import Heading from "./compo/Heading"
 
 function App() {
